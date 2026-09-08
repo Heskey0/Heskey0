@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ang Zhao 👋
 
-<!--
-**Heskey0/Heskey0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. student in Computer Science at Xiamen University, working on
+**Computer Graphics, Physics Simulation, and Geometry Processing**.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Physics-based Simulation
+- Geometry Processing
+- 3D / Physical AI
+- Procedural Modeling
+
+## 📄 Research
+
+### S4R: Scaling for Rigid-Body Interpenetration Resolution
+ACM Transactions on Graphics (TOG), 2026
+
+A robust method for resolving rigid-body interpenetration.
+
+### CSG-Agent
+Recovering compact and editable CSG programs from B-rep CAD models.
+
+## 💻 Technical Interests
+
+C++ · GPU Computing · Physics Simulation · Geometry Processing
+
+## 🔗 Links
+
+- [Homepage](https://heskey0.github.io/)
