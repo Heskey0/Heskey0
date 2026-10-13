@@ -1,14 +1,14 @@
 # Hi, I'm Ang Zhao 👋
 
 I'm an M.S. student in Computer Science at Xiamen University, working on
-**Computer Graphics, Physics Simulation, and Geometry Processing**.
+**Computer Graphics, Physics Simulation, and Animation**.
 
 ## 🔬 Research Interests
 
 - Physics-based Simulation
-- Geometry Processing
+- Animation
 - Reinforcement Learning
-- Procedural Modeling
+
 
 ## 🔗 Links
 
